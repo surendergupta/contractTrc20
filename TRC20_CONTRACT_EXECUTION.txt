@@ -1,0 +1,14 @@
+Compiled success: Contract ERC20  Show ABIShow Bytecode
+Compiled success: Contract ERC20Detailed  Show ABIShow Bytecode
+Compiled success: Contract IERC20  Show ABIShow Bytecode
+Compiled success: Contract SafeMath  Show ABIShow Bytecode
+Compiled success: Contract Token  Show ABIShow Bytecode
+Deploy Token
+Transaction unsigned.  View Unsigned Transaction
+Waiting user sign
+Transaction signed!  View Signed Transaction
+Broadcast transaction
+Broadcast transaction success! View Broadcast Result
+Waiting for confirm from Tron blockchain
+Successful deployed contract 'Token'. Cost: 77.40194 TRX, 0 energy. Transaction confirm here 9fba91166215c05f8525c7291271f0b2d87d1414d42e9571e2cf2cb481b70a15
+Contract address:  TSfJZy8ewvdGCnS68CeS3QdvYAshYK4sJi
